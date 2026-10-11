@@ -82,16 +82,6 @@ Cross = Mouse5
 HoldMs = 120    // how long a wheel press is held, in milliseconds
 ```
 
-### Note on the wheel
-
-The wheel is a shared drain: this mod and the CS 1.6 movement mod's
-wheel-jump read the same notches, so with both on, whichever polls first gets
-them. If you bind a wheel notch here, rebind jump off the wheel in the CS mod
-(or vice versa).
-
-No hooks: the mod acts only on the pad-read event and reports `0 hook(s)` in
-the log.
-
 ---
 
 ## Crosshair (`kf3.crosshair`)
@@ -125,12 +115,7 @@ cutscenes stay unmarked; the crosshair appears when you are actually in play.
 In the mod's settings page (the Mods popup):
 
 - **Crosshair on** — on/off (persisted as `kf3.crosshair.enabled`)
-- **Crosshair scale** — 0.5× to 3× (persisted as `kf3.crosshair.scale`)
-
-With the CS 1.6 movement mod (`kf3.csmove`) on, its own HUD draws a
-crosshair too; turn one of the two off or they draw on top of each other.
-
-No hooks: `0 hook(s)`.
+- **Crosshair scale** — 0.5× to 3× (persisted as `kf3.crosshair.scale`
 
 ---
 
