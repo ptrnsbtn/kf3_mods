@@ -1,0 +1,7 @@
+{
+  "id": "kf3.binds",
+  "name": "Key Binds",
+  "version": "0.4",
+  "author": "Verdite3",
+  "description": "Keyboard and mouse bindings for the game's pad buttons, read from a commented config next to this file (bindings.cfg): a held key or mouse button holds its button, the wheel fires one press per notch, and a button may take several inputs -- repeat its line. Injected through PAD_dr the way KF3_AUTOPAD does. Default: Cross (the action button) on the mouse wheel down."
+}

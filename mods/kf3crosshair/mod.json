@@ -1,0 +1,7 @@
+{
+  "id": "kf3.crosshair",
+  "name": "Crosshair",
+  "version": "0.1",
+  "author": "Verdite3",
+  "description": "A crosshair over the centre of the picture, only while play is live: a character in normal play with the player tick running, so title screen, its menus, the in-game menu, loading screens and cutscenes stay unmarked. Scale it in this mod's settings."
+}
