@@ -96,6 +96,8 @@ the log.
 
 ## Crosshair (`kf3.crosshair`)
 
+![The crosshair over the picture while playing](images/crosshair_1.jpg)
+
 A crosshair — four arms with a hole in the middle, white on a black outline —
 over the centre of the picture, drawn on the foreground so it sits over the
 game's picture, the way a source-port crosshair does.
